@@ -1,0 +1,41 @@
+BGM入手先
+タイトル画面BGM『NES　STG　C04』：OtoLogic様
+https://otologic.jp/free/bgm/game-shooter-nes02.html
+
+メインステージBGM『ファミコンブギウギ』：DOVA（れいな）様
+https://dova-s.jp/bgm/play1695.html
+
+メインステージボスBGM『ボス戦1』：ユーフルカ様
+https://wingless-seraph.net/material-music_8bit.html
+
+ボスクリアBGM『ステージクリアのBGM【ファミコン風】』：うぃむのいん様（ニコニ・コモンズ）
+https://commons.nicovideo.jp/material/nc252668
+
+ゲームオーバーBGM『失敗、ゲームオーバー』：DOVA（ひふみセオリー）様
+https://dova-s.jp/se/play601.html
+
+ステージ選択画面BGM『NES　STG　C05』：OtoLogic様
+https://otologic.jp/free/bgm/game-shooter-nes02.html
+
+
+効果音入手先
+タイトル画面カーソル移動　『select01』：無料効果音で遊ぼう！様
+https://taira-komori.jpn.org/game01.html
+
+タイトル画面選択『アイテムゲット4(se_itemget_004.wav)』：FC音工場様
+https://fc.sitefactory.info/se.html
+
+メインゲーム自機ショット『ショット1(se_shot_001.wav)』：FC音工場様
+https://fc.sitefactory.info/se.html
+
+メインゲームアイテムゲット『アイテムゲット4(se_itemget_001.wav)』：FC音工場様
+https://fc.sitefactory.info/se.html
+
+メインゲーム残機減少『パワーダウン6(se_powerdown_006.wav)』：FC音工場様
+https://fc.sitefactory.info/se.html
+
+メインゲーム通常敵死亡『その他6(se_etc_006.wav)』：FC音工場様
+https://fc.sitefactory.info/se.html
+
+メインゲームボム『ゲーム向け爆発５』：無料効果音で遊ぼう！様
+https://taira-komori.jpn.org/arms01.html
